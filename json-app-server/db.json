@@ -1,0 +1,25 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "username": "Admin",
+            "firstName": "Admin",
+            "lastName": "Admin",
+            "password": "123456789",
+            "avatar": "https://automedia.investor.bg/media/files/resized/article/640x/577/08dfa840ee3158c7e45fe30c6e08f577-2012-04-iffdfrdwdanbwq6jpt1g.jpg"
+        }
+    ],
+    "vehicles": [
+        {
+            "id": 1,
+            "brand": "VW",
+            "model": "Golf",
+            "year": "1989",
+            "color": "white",
+            "dors": "4",
+            "imges": [
+                "https://automedia.investor.bg/media/files/resized/article/640x/577/08dfa840ee3158c7e45fe30c6e08f577-2012-04-iffdfrdwdanbwq6jpt1g.jpg"
+            ]
+        }
+    ]
+}
