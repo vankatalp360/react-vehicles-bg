@@ -1,0 +1,31 @@
+.navigation {
+    background: #47C4B3;
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 100px;
+    align-items: center;
+}
+
+.navigation-logo-wrapper {
+    width: 120px;
+}
+
+.navigation-logo-wrapper img{
+    width: 100%;
+}
+
+.navigation-list-items {
+    display: flex;
+    list-style: none;
+}
+
+.navigation-list-item{
+    padding: 0 20px;
+}
+
+.navigation-list-item a,
+.navigation-logo-wrapper a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
