@@ -2,17 +2,17 @@ import logo from './logo.svg';
 
 import { Route, Switch } from 'react-router-dom';
 
-import Header from "./Components/Header/Header"
-import Vehicles from "./Components/Vehicles/Vehicles"
+import Navigation from "./Components/Navigation/Navigation"
+import Dashboard from "./Components/Dashboard/Dashboard"
 
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <Header />
+      <Navigation />
       <Switch>
-        <Route path="/" exact component={Vehicles} />
+        <Route path="/" exact component={Dashboard} />
       </Switch>
     </div>
   );

@@ -1,0 +1,79 @@
+.vehicles-filter {
+    text-align: center;
+    max-width: 80%;
+    margin: 50px auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 0;
+}
+
+.vehicles-filter-button{
+    margin-right: 10px;
+    background-color: #5F5F5F;
+    font-size: 18px;
+    line-height: 25px;
+    text-align: center;
+    border-radius: 6px;
+    display: inline-flex;
+    justify-content: center;
+    border: 0;
+    padding: 12px 32px;
+    color: #fff;
+    font-weight: 400;
+    min-width: 180px;
+    text-decoration: none;
+}
+
+.vehicles-search-form form {
+  position: relative;
+  width: 30rem;
+  background: #57bd84;
+  border-radius: .7rem;
+  border: 1px black;
+  text-align: start;
+}
+.vehicles-search-bar, .vehicles-search-button {
+  height: 40px;
+  font-family: 'Lato', sans-serif;
+  border: 0;
+  color: #2f2f2f;
+  font-size: 1.8rem;
+}
+.vehicles-search-bar[type="search"] {
+  outline: 0; 
+  width: 100%;
+  background: #fff;
+  padding: 0 1.6rem;
+  border-radius: .7rem;
+  appearance: none; 
+  transition: all .3s cubic-bezier(0, 0, 0.43, 1.49);
+  transition-property: width, border-radius;
+  z-index: 1;
+  position: relative;
+}
+.vehicles-search-button {
+  display: block; 
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 6rem;
+  font-weight: bold;
+  background: #57bd84;
+  border-radius: 0 .7rem .7rem 0;
+}
+.vehicles-search-bar:not(:placeholder-shown) {
+  border-radius: .7rem 0 0 .7rem;
+  width: 80%;
+}
+
+.vehicles-search-label {
+  position: absolute;
+  clip: rect(1px, 1px, 1px, 1px);
+  padding: 0;
+  border: 0;
+  height: 1px;
+  width: 1px;
+  overflow: hidden;
+}
+
