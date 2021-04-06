@@ -16,7 +16,6 @@ class Vehicles extends Component {
     componentDidMount() {
         VehiclesService.getAll()
             .then(res => this.setState({ vehicles: res }));
-            console.log(this.state.vehicles)
     }
 
     render() {

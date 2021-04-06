@@ -18,13 +18,13 @@ const Navigation = () => {
                         <Link to="/register">Register</Link>
                     </li>
                     <li className="navigation-list-item">
-                        <Link to="/vehicles/add">My Profile</Link>
+                        <Link to="/user/my-profile">My Profile</Link>
                     </li>
                     <li className="navigation-list-item">
-                        <Link to="/vehicles/add">My Vehicles</Link>
+                        <Link to="/vehicles/my-vehicles">My Vehicles</Link>
                     </li>
                     <li className="navigation-list-item">
-                        <Link to="/vehicles/add">Add Vehicle</Link>
+                        <Link to="/vehicles/add-vehicles">Add Vehicle</Link>
                     </li>
                 </ul>
             </section>

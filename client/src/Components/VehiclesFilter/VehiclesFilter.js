@@ -30,7 +30,7 @@ class VehiclesFilter extends Component {
                 <article className="vehicles-search-form">
                     <form role="search">
                         <label className="vehicles-search-label" htmlFor="search">Search for vehicles</label>
-                        <input id="search" className="vehicles-search-bar" type="search" placeholder="Search..." autoFocus required />
+                        <input id="search" className="vehicles-search-bar" type="search" placeholder="Search..." required />
                         <button className="vehicles-search-button" type="submit">Go</button>    
                     </form>
                 </article>

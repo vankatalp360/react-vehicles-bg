@@ -5,3 +5,9 @@ export const getAll = () => {
         .then(res => res.json())
         .catch(err => console.log(err));
 }
+
+export const getOne = (vehicleId) => {
+    return fetch(`${url}/${vehicleId}`)
+        .then(res => res.json())
+        .catch(err => console.log(err));
+}

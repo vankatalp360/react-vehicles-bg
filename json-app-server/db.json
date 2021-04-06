@@ -2,6 +2,7 @@
     "users": [
         {
             "id": 1,
+            "email": "admin@admin.com",
             "username": "Admin",
             "firstName": "Admin",
             "lastName": "Admin",
@@ -30,8 +31,11 @@
             "price": "200000lv",
             "views": 0,
             "condition": "Used",
+            "createDate": "03.29.2021",
             "images": [
-                "https://automedia.investor.bg/media/files/resized/article/640x/577/08dfa840ee3158c7e45fe30c6e08f577-2012-04-iffdfrdwdanbwq6jpt1g.jpg"
+                "https://automedia.investor.bg/media/files/resized/article/640x/577/08dfa840ee3158c7e45fe30c6e08f577-2012-04-iffdfrdwdanbwq6jpt1g.jpg",
+                "https://scontent.fsof11-1.fna.fbcdn.net/v/t1.0-9/86700842_1933597126772677_602859614169464832_n.png?_nc_cat=108&ccb=1-3&_nc_sid=730e14&_nc_ohc=DgiYFuIJuCMAX-ONJk7&_nc_ht=scontent.fsof11-1.fna&oh=59e4c30ba84d1c7d7d83196ff7a41519&oe=60884D31",
+                "https://i.pinimg.com/originals/78/2f/00/782f00bd488f62d650c3edef7cbbb086.jpg"
             ]
         },
         {
@@ -54,6 +58,7 @@
             "price": "200000lv",
             "views": 0,
             "condition": "Used",
+            "createDate": "03.29.2021",
             "images": [
                 "https://automedia.investor.bg/media/files/resized/article/640x/577/08dfa840ee3158c7e45fe30c6e08f577-2012-04-iffdfrdwdanbwq6jpt1g.jpg"
             ]
@@ -78,6 +83,7 @@
             "price": "200000lv",
             "views": 0,
             "condition": "Used",
+            "createDate": "03.29.2021",
             "images": [
                 "https://automedia.investor.bg/media/files/resized/article/640x/577/08dfa840ee3158c7e45fe30c6e08f577-2012-04-iffdfrdwdanbwq6jpt1g.jpg"
             ]
@@ -102,6 +108,7 @@
             "price": "200000lv",
             "views": 0,
             "condition": "Used",
+            "createDate": "03.29.2021",
             "images": [
                 "https://automedia.investor.bg/media/files/resized/article/640x/577/08dfa840ee3158c7e45fe30c6e08f577-2012-04-iffdfrdwdanbwq6jpt1g.jpg"
             ]
@@ -126,6 +133,7 @@
             "price": "200000lv",
             "views": 0,
             "condition": "Used",
+            "createDate": "03.29.2021",
             "images": [
                 "https://automedia.investor.bg/media/files/resized/article/640x/577/08dfa840ee3158c7e45fe30c6e08f577-2012-04-iffdfrdwdanbwq6jpt1g.jpg"
             ]
@@ -150,6 +158,7 @@
             "price": "200000lv",
             "views": 0,
             "condition": "Used",
+            "createDate": "03.29.2021",
             "images": [
                 "https://automedia.investor.bg/media/files/resized/article/640x/577/08dfa840ee3158c7e45fe30c6e08f577-2012-04-iffdfrdwdanbwq6jpt1g.jpg"
             ]
